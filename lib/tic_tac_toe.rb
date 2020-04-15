@@ -16,5 +16,5 @@ class TicTacToe
     ]
     
   def display_board
-    puts "#{board0}"
+    puts "#{board[0]}"
 

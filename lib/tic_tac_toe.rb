@@ -1,18 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@omarnabi1 
-Code Issues 0 Pull requests 0 Projects 0 Actions Wiki Security Pulse Community
-Tic-Tac-Toe-Ruby/oo-tic-tac-toe-v-000/lib/tic_tac_toe.rb /
-@alexisadorn alexisadorn Tic Tac Toe labs
-8f439e7 on Mar 28, 2017
-141 lines (121 sloc)  2.28 KB
-  
 class TicTacToe
 
   WIN_COMBINATIONS = [
